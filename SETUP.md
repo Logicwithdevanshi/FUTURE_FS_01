@@ -1,8 +1,8 @@
 ⚙️ Setup Steps
 **1. Clone the Repository**
 
-git clone <repository-url>
-cd portfolio-project
+git clone https://github.com/Logicwithdevanshi/FUTURE_FS_01.git
+cd FUTURE_FS_01
 
 •Navigate into the project directory.
 
